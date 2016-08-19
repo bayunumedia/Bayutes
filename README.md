@@ -1,5 +1,6 @@
 # bayutes
 Buat blajar git
 
-read me di branch develop
+experimental test
+
 ini perubahan di file readme edit
